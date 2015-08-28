@@ -1,0 +1,21 @@
+#sidebar {
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding-bottom: 10px;
+}
+
+body{
+	margin-top:20px;
+}
+
+.inputfill{
+	width: 98%;
+}
+
+.fill {
+	width: 100%;
+}
+
